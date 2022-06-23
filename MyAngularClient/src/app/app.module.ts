@@ -21,8 +21,8 @@ import { HomeComponent } from './home/home.component';
 import { OKTA_CONFIG, OktaAuthModule } from '@okta/okta-angular';
 
 const oktaConfig = {
-  issuer: 'https://dev-9323263.okta.com/oauth2/default',
-  clientId: '0oako0qslkbNKA2kg5d6',
+  issuer: 'https://dev-85325323.okta.com/oauth2/default',
+  clientId: '0oa5ha1rzgTosdt3W5d7',
   redirectUri: window.location.origin + '/callback'
 };
 
